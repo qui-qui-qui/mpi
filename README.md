@@ -1,2 +1,2 @@
 # mpi
-mpi on python for developers
+mpi on python
