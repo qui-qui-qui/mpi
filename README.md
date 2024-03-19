@@ -3,7 +3,7 @@
 ## task2 output
 ### Sum of 10 elements: 90194313240, Execution time: 0.08800101280212402 sec.
 ### Sum of 1000 elements: 1073741824249500, Execution time: 0.001996278762817383 sec.
-Sum of 10000000 elements: 14131916010404594880, Execution time: 0.062001943588256836 sec.
+### Sum of 10000000 elements: 14131916010404594880, Execution time: 0.062001943588256836 sec.
 
 ## task3 output
 ### Array size 100x100: Time - 0.023996829986572266 sec.
